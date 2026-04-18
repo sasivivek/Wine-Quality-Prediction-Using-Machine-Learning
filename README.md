@@ -67,7 +67,4 @@ Training Accuracy :  ~0.720
 Validation Accuracy :  ~0.707
 ```
 
-## 🔗 References
 
-- [GeeksforGeeks - Wine Quality Prediction](https://www.geeksforgeeks.org/machine-learning/wine-quality-prediction-machine-learning/)
-- [Wine Quality Dataset](https://media.geeksforgeeks.org/wp-content/uploads/20240910131455/winequalityN.csv)
